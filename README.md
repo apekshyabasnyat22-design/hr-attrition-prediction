@@ -141,5 +141,5 @@ Interactive dashboard or visual reports are created
 ## Submission Links
 
 * Dataset: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-* GitHub Repository: To be added
-* Week 1 Video Demo: To be added
+* GitHub Repository: https://github.com/apekshyabasnyat22-design/hr-attrition-prediction
+
